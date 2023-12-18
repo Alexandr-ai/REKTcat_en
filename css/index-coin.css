@@ -2429,3 +2429,68 @@
     }
 
 }
+
+@media (min-width: 1500px) {
+    .coin__orbit {
+        background-image: url(../img/coin__orbit-before2.png);
+        background-size: 100% auto;
+        max-width: 100%;
+        min-height: 740px;
+        margin: auto;
+        margin-top: 2rem;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+}
+
+@media (min-width: 1760px) {
+    .coin__orbit {
+        background-image: url(../img/coin__orbit-before2.png);
+        background-size: 100% auto;
+        max-width: 100%;
+        min-height: 840px;
+        margin: auto;
+        margin-top: 2rem;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+}
+
+@media (min-width: 1900px) {
+    .coin__orbit {
+        background-image: url(../img/coin__orbit-before2.png);
+        background-size: 100% auto;
+        max-width: 100%;
+        min-height: 940px;
+        margin: auto;
+        margin-top: 2rem;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+}
+
+@media (min-width: 2200px) {
+    .coin__orbit {
+        background-image: url(../img/coin__orbit-before2.png);
+        background-size: 100% auto;
+        max-width: 100%;
+        min-height: 1040px;
+        margin: auto;
+        margin-top: 2rem;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+}
+
+@media (min-width: 2470px) {
+    .coin__orbit {
+        background-image: url(../img/coin__orbit-before2.png);
+        background-size: 100% auto;
+        max-width: 100%;
+        min-height: 1140px;
+        margin: auto;
+        margin-top: 2rem;
+        background-repeat: no-repeat;
+        position: relative;
+    }
+}

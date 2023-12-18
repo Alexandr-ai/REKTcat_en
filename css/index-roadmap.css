@@ -433,4 +433,21 @@ p.road-map__promise {
 
 
 
+@media (min-width: 1500px) {
+    .road-map {
+        position: relative;
+        width: 100%;
+        max-width: 100%;
+        min-height: 750px;
+        left: 0;
+        bottom: 0;
+        background-image: url('../img/roadMap__milky-way.png'); 
+        background-size: cover;
+        background-position: 50% 50%;
+        z-index: 10;
+    }
+}
+
+
+
 
